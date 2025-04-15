@@ -1,0 +1,13 @@
+E:\6to_Semestres\Sistemas_Distribuidos\Practicas\GestionPersona\ClienteUsuarios\ClienteUsuarios\bin\Debug\ClienteUsuarios.exe.config
+E:\6to_Semestres\Sistemas_Distribuidos\Practicas\GestionPersona\ClienteUsuarios\ClienteUsuarios\bin\Debug\ClienteUsuarios.exe
+E:\6to_Semestres\Sistemas_Distribuidos\Practicas\GestionPersona\ClienteUsuarios\ClienteUsuarios\bin\Debug\ClienteUsuarios.pdb
+E:\6to_Semestres\Sistemas_Distribuidos\Practicas\GestionPersona\ClienteUsuarios\ClienteUsuarios\bin\Debug\Newtonsoft.Json.dll
+E:\6to_Semestres\Sistemas_Distribuidos\Practicas\GestionPersona\ClienteUsuarios\ClienteUsuarios\bin\Debug\Newtonsoft.Json.xml
+E:\6to_Semestres\Sistemas_Distribuidos\Practicas\GestionPersona\ClienteUsuarios\ClienteUsuarios\obj\Debug\ClienteUsuarios.csproj.AssemblyReference.cache
+E:\6to_Semestres\Sistemas_Distribuidos\Practicas\GestionPersona\ClienteUsuarios\ClienteUsuarios\obj\Debug\ClienteUsuarios.Form1.resources
+E:\6to_Semestres\Sistemas_Distribuidos\Practicas\GestionPersona\ClienteUsuarios\ClienteUsuarios\obj\Debug\ClienteUsuarios.Properties.Resources.resources
+E:\6to_Semestres\Sistemas_Distribuidos\Practicas\GestionPersona\ClienteUsuarios\ClienteUsuarios\obj\Debug\ClienteUsuarios.csproj.GenerateResource.cache
+E:\6to_Semestres\Sistemas_Distribuidos\Practicas\GestionPersona\ClienteUsuarios\ClienteUsuarios\obj\Debug\ClienteUsuarios.csproj.CoreCompileInputs.cache
+E:\6to_Semestres\Sistemas_Distribuidos\Practicas\GestionPersona\ClienteUsuarios\ClienteUsuarios\obj\Debug\ClienteU.5738A925.Up2Date
+E:\6to_Semestres\Sistemas_Distribuidos\Practicas\GestionPersona\ClienteUsuarios\ClienteUsuarios\obj\Debug\ClienteUsuarios.exe
+E:\6to_Semestres\Sistemas_Distribuidos\Practicas\GestionPersona\ClienteUsuarios\ClienteUsuarios\obj\Debug\ClienteUsuarios.pdb
