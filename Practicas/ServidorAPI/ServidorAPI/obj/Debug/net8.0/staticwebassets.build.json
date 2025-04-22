@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1Jcz60PlDdl9AJY8Zm6kSiF5GExANGqaBhusU5PdqlA=",
+  "Source": "ServidorAPI",
+  "BasePath": "_content/ServidorAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

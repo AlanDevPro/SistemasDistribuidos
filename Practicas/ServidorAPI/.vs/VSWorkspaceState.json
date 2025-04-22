@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ServidorAPI",
+    "\\ServidorAPI\\Controllers",
+    "\\ServidorAPI\\Models",
+    "\\ServidorAPI\\Services"
+  ],
+  "SelectedNode": "\\ServidorAPI\\Models\\Usuario.cs",
+  "PreviewInSolutionExplorer": false
+}
