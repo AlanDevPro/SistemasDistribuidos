@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://localhost:61526/ServicioSegip.asmx?wsdl" docRef="http://localhost:61526/ServicioSegip.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://localhost:61526/ServicioSegip.asmx" xmlns:q1="http://segipip.gob.bo/" binding="q1:ServicioSegipSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://localhost:61526/ServicioSegip.asmx" xmlns:q2="http://segipip.gob.bo/" binding="q2:ServicioSegipSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
